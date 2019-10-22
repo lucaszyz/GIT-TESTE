@@ -1,1 +1,1 @@
-Olá mundo editando para subir PARA ATENDER TAL DEMANDA teste braches
+Alteração para testar uso do GIT com Visual Studio
