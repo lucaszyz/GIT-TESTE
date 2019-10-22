@@ -1,1 +1,1 @@
-Alteração para testar uso do GIT com Visual Studio 2
+teste commit
